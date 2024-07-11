@@ -2,8 +2,8 @@
 Sistem Informasi Posyandu 
 ###################
 
-.. image:: https://github.com/sayyidazizii/posyandudesamantadulu/assets/68958131/1eb4bd90-1cb3-4cd1-a9d3-c019574a6683
-		:alt: SIP
+.. image:: https://github.com/sayyidazizii/ayamgepreknana/blob/main/assets/img/landingpage.png
+		:alt: img
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
