@@ -1,5 +1,5 @@
 ###################
-Sistem Informasi Posyandu 
+WEB SITE AYAM GEPREK 
 ###################
 
 .. image:: https://github.com/sayyidazizii/ayamgepreknana/blob/main/assets/img/landingpage.png
